@@ -1,0 +1,4 @@
+[core]
+    remote = gcstorage
+['remote "gcstorage"']
+    url = gs://lg-robot-ai-dvc/data
